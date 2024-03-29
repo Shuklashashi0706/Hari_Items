@@ -1,0 +1,3 @@
+C:/Users/BEAST/Desktop/CMAKE/Turtorial/Build/CMakeFiles/Turtorial.dir
+C:/Users/BEAST/Desktop/CMAKE/Turtorial/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/BEAST/Desktop/CMAKE/Turtorial/Build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\USERS\BEAST\DESKTOP\CMAKE\TURTORIAL\BUILD\CMAKEFILES\C9CB90C47D393226AB09C25154AE8A84\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/BEAST/Desktop/CMAKE/Turtorial -BC:/Users/BEAST/Desktop/CMAKE/Turtorial/Build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/BEAST/Desktop/CMAKE/Turtorial/Build/TURTORIAL.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,2 @@
+std::cout << "Hii i am function\n";
+int returnValue = 5;

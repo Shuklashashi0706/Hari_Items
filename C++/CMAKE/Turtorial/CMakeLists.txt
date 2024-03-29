@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(TURTORIAL)
+add_executable(Turtorial turtorial.cpp)
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_C_STANDARD_REQUIRED True)

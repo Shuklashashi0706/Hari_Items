@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\BEAST\Desktop\OpenGl\glfw_3.3.9\tests\empty.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\BEAST\Desktop\OpenGl\glfw_3.3.9\deps\tinycthread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\BEAST\Desktop\OpenGl\glfw_3.3.9\deps\glad_gl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\BEAST\Desktop\OpenGl\glfw_3.3.9\deps\tinycthread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\BEAST\Desktop\OpenGl\glfw_3.3.9\deps\glad\gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\BEAST\Desktop\OpenGl\glfw_3.3.9\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B0C51FC7-2A4F-3E72-8633-5E0B2E0DDC49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3F4C3E0B-F767-3ABC-99A2-1C24D51B77ED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
